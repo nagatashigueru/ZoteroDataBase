@@ -1,0 +1,1015 @@
+Skip to main content
+Skip to article
+Brought to you by:
+El acceso a este contenido está provisto por el Programa BEIC, iniciativa de Conicyt y Cincel
+View PDF
+Download full issue
+Applied Surface Science
+Volume 559
+, 1 September 2021, 149982
+Full Length Article
+Defect states induced luminescence and electrochemical studies of boron carbon nitride nanosheets
+Author links open overlay panel
+Manjot Kaur a
+,
+Rameez Ahmad Mir b
+,
+Ishant Chauhan a
+,
+Kulwinder Singh a
+,
+Unni Krishnan a
+,
+Manish Kumar c
+,
+Pooja Devi c
+,
+O.P. Pandey b
+,
+Akshay Kumar a
+Show more
+Share
+Cite
+https://doi.org/10.1016/j.apsusc.2021.149982
+Get rights and content
+Highlights
+
+•
+
+Synthesis of hexagonal BCN nanosheets via novel one step solvothermal method.
+
+•
+
+The role of sp2 domains of carbon-based defect states on optical properties of BCN.
+
+•
+
+Ultraviolet and Visible region emission due to band-to-band transitions, and defect states of BCN respectively.
+
+•
+
+Detailed electrochemical analysis of BCN for HER applications.
+
+Abstract
+
+A single-step thermochemical synthesis route for boron carbon nitride (BCN) has been reported in this work. X-ray photoelectron spectroscopy (XPS) shows that B, C, and N atoms are atomically intermixed with the dominance of graphite and BN domains. In Fourier transform infrared spectroscopy, a broad band at 1521 cm−1 (sp2 CN) indicates the presence of defect states comparable to the presence of πP (CN) plasmon loss peak in XPS. The role of defect states in the optical properties of BCN has been analyzed using UV–Visible and photoluminescence (PL) spectroscopy. PL shows a defect states induced broad emission band (2–2.9 eV) from the sp2 domain and a sharp peak at 3.64 eV due to band to band transitions of the direct band of BCN. Carbon played a significant role in the formation of deep levels responsible for the carrier trapping and recombination process. Defect induced emission in the ultraviolet and visible region makes this material suitable for optoelectronic, nanoelectronics, catalytic applications, etc. Hydrogen evolution reaction (HER) studies also show high performance due to presence of these defect states. The improved stability makes the material vital to be explored as electrode material in batteries and supercapacitors.
+
+Graphical abstract
+
+Thermo-chemicaaly synthesized BCN nanosheets for photoluminescence and electrochemical properties.
+
+Download: Download high-res image (179KB)
+Download: Download full-size image
+
+Previous
+Next
+Keywords
+BCNThermo-chemicalDefect statesXPSPhotoluminescenceHydrogen evolution reaction
+1. Introduction
+
+Development of graphene, a fascinating 2D material, has motivated research in analogous materials such as boron nitride (BN), boron carbide (B4C), and transition metal dichalcogenides (TMDs)
+[1]
+,
+[2]
+. One more exciting, layered material of this family is boron carbon nitride (BCN), which has gained research consideration over the past few years. Boron carbon nitride is a ternary compound of BCN, which has been anticipated to possess properties in-between conducting graphene and insulating BN
+[3]
+. This boron carbon nitride class may be further divided into (i) Simple, i.e., BN and graphene domains containing composites, (ii) Complex, i.e., NC and BC bonds along with BN and CC bonding. The percentage of these bonds and the synthesis method are the two parameters that decide the properties of these materials. Various theoretical, as well as experimental studies, reveal that BCN unveiled numerous potential applications due to their outstanding optical, electrical, mechanical, and thermal properties
+[3]
+,
+[4]
+,
+[5]
+. BCN shows unique properties between boron nitride, carbon nitride, and boron carbide. BCN can be expected to show possible applications in electrical conductors, supercapacitors, photocatalysis, electronics, electrocatalysis, novel composites, and high-temperature lubricants
+[3]
+,
+[6]
+,
+[7]
+,
+[8]
+. It has also been demonstrated that the BCN sheets display superior performance as electrocatalyst for hydrogen evolution reaction (HER). Currently, the immense research is going on the synthesis of cost effective and efficient electrocatalysts with tunable properties useful in hydrogen production via HER process
+[9]
+,
+[10]
+,
+[11]
+,
+[12]
+,
+[13]
+,
+[14]
+. Properties of BCN can be easily tuned with slight variation in arrangement and composition of B, C, and N atoms. The variation in the percentage of B, C, and N leads to the defects in the structure. These defect states can help tune the electronic and optical properties. The bandgap of BCN can be adjusted between graphene and boron nitride. This whole window for bandgap tunability makes this material a promising candidate for optoelectronic applications. BCN structure is very complicated as there is a possibility of atomic level hybrids and phase-separated mixtures. Therefore, different phase compositions can result in separate emission peaks despite the same chemical compositions. Structural defects can also play an essential role in the unique optical properties of BCN. BCN has been synthesized by various routes such as chemical vapor deposition, RF sputtering, magnetron sputtering, arc discharge, and high-pressure high-temperature synthesis methods
+[4]
+,
+[7]
+,
+[8]
+,
+[15]
+. Carbon-rich BCN is prepared in most of the experiments. The thermal substitution method has been utilized to synthesize BCN nanosheets with controllable bandgap and outstanding nonlinear optical performance. However, most of these methods generally require expensive and sophisticated synthesis setup, multi-step process, and high-temperature conditions. Traditionally, ammonia atmosphere and boron-containing gaseous precursors have been explored for the synthesis of BCN. But these boron-containing compounds are toxic, which limits their use in further applications. Also, other methods using different C and BN source has been explored, but the product generally results in a composite of BN and carbon clusters
+[16]
+. Even though BCN possesses several excellent properties, but its synthesis is quite tough in several aspects such as phase purity, low synthesis yield, multi-step process, high-temperature requirements, etc. So, there is a requirement of a simple, cost-effective, single-step synthesis approach with high yield.
+
+In this work, a novel thermo-chemical method using boric acid, acetone, and ammonia has been employed for the synthesis of nanostructured boron carbon nitride. The synthesis process is single-step and requires no special treatments. Detailed structural analysis has been done to estimate the defect states in the synthesized material. For optical studies, the sample has been analyzed at three different times- as-synthesized material, after 1 day, and after 30 days to check the optical stability of the material for its usability in optoelectronic devices. Also, the effect of varying excitation wavelengths on the emission of BCN has been observed. Linear sweep voltammetry, cyclic voltammetry, and galvanic charge discharge (GCD) characteristics were analyzed to explore the electrochemical studies of BCN for its potential applications in HER or supercapaciotrs.
+
+2. Experimental
+2.1. Synthesis of BCN
+
+Boric acid, acetone, and ammonia solution were used as a boron source, carbon, and nitrogen source, respectively. All the reactants were put in a stainless-steel autoclave and sealed properly. The charged autoclave was heated at 700 °C for 24 h. After that, the furnace was allowed to cool down naturally. Then, the powder sample was collected from the autoclave and washed with ethanol. The washed sample was dried at 80 °C for 5 h in a vacuum heating oven. The dried sample was used for further characterization.
+
+2.2. Characterization of synthesized BCN
+
+Structural analysis was done using X-ray diffraction by X-ray diffractometer (Model Geiger flex D max IIIc and X’pert pro PAN analytical) at room temperature using monochromatic Cu kα radiation (λ = 1.5418 Å) at a scan speed of 5°/min. XPS was done using ESCA+, (Omicron Nanotechnology, Oxford Instrument Germany) equipped with monochromatic Aluminum Source (Al kα radiation hv = 1486.7 eV) operated at 15 kV and 20 mA. Raman analysis was done at room temperature using a Renishaw 1000 micro-Raman microscope in backscattering geometry. Fourier transform infrared spectroscopy (FTIR) was done using the FTIR spectrometer (Bruker Alpha). The morphological analysis was done using the Carl Zeiss field-emission scanning electron microscope (FESEM). Zeta potential determination was done using Dynamic Light Scattering (Zetasizer Nano ZS, Malvern Instruments Ltd., UK) method. UV–visible spectroscopy analysis was done using the Shimadzu UV-2600 spectrophotometer. Photoluminescent studies were performed using Edinburgh FLS 980 Photoluminescent spectrophotometer. The electrocatalytic activity test of as synthesised samples was performed using Bio-logic EC lab SP300 work station.
+
+2.3. Electrode fabrication
+
+The workstation has three electrode setup among which, fabrication of working electrode was done manually. Platinum rod and reversible hydrogen electrode (RHE) was used as counter and reference electrode, respectively. Working electrode was fabricated as follows: 3 mg of the prepared sample (BCN) mixed with 250 µL of ethanol and then ultra-sonicated for 30 min. 10 µL of the above dispersed solution was dropwise added on top of the glass carbon electrode (GCE), having surface area of 0.07 cm2. A single drop (10 µL) of Nafion®117 solution (Sigma Aldrich) was put onto top of GCE and kept overnight for drying. All the measurements of linear sweep voltammetry (LSV), cyclic voltammetry (CV) and galvanic charge discharge (GCD) characteristics were measured with respect to RHE in 0.5 M H2SO4.
+
+3. Results and discussions
+
+XRD pattern of synthesized material is shown in
+Figure S1
+. XRD pattern has been indexed with BCN (JCPDS PDF# 052-0233). The diffraction peaks at 26.3°, 41.3°, 54.5° can be attributed to (0 0 2), (1 0 0), and (0 0 4) lattice planes of h- BCN
+[17]
+,
+[18]
+. The d-spacing value of (0 0 2) plane is similar to h-BCN but higher than h-BN and graphite. The diffraction peaks at 14.6°, 27.9°, 41.3° can be indexed with hexagonal boron nitride (JCPDS PDF# 01-074-1978). The diffraction peaks at 26.3°, 54.5° are very similar to diffraction peaks of hexagonal graphite carbon (JCPDS PDF# 023-0064). There is a shift observed in comparison to standard h-BN and graphite phase, which may be due to the incorporation of C atoms within BN lattice. This kind of shift has been reported in the literature
+[19]
+,
+[20]
+. There is no carbide phase present in the XRD pattern. These results indicate that a well-hybridized assembly of h-BN and graphitic C leads to the formation of BCN superlattice. Also, the presence of other small diffraction peaks with (0 0 2) in h-BCN suggests the possibility of a two-dimensional (2D) structure with high lamellar stacking
+[17]
+. These results are further supported by morphological analysis (discussed later).
+
+During this novel thermo-chemical route, hydrogen generated in the system played an important role (Eq.
+(1)
+). It generates enough pressure to synthesize this material at a relatively lower temperature. The proposed reaction which may have occurred at 700 °C during the synthesis process is as follows:
+(1)
+3H3BO3+CH3COCH3+3NH4OH→3BCN+13H2O+2H2
+
+The average crystallite size of BCN, calculated using the Williamson-Hall method, is found to be ~30.1 nm. The calculated lattice parameters are given in Table S1. Lattice parameter calculation shows the increase in ‘a’ value by ~3% and a decrease in ‘c’ value by ~0.2%. Due to this shift, there is a distortion in the crystal structure, and the system may be in compressive strain The Texture coefficient has also been calculated using Eq.
+(2)
+. Texture coefficient calculations (Table S2) from XRD showed that the synthesized h-BCN is textured along the least dense (0 0 2) plane with a texture coefficient 1.71.
+(2)
+TC(hikili)=I(hikili)I0(hikili)1n∑i=1nIhikiliI0hikili-1
+
+Defect states were also studied using XRD results.
+Figure S2
+ shows the plot of the Δd/d versus Nelson-Riley factor (NRF). The scatteredness of points is related to the defect states. The plot confirms the presence of defect states or stacking faults in the h-BCN due to high scatteredness.
+
+XPS analysis was done to identify the chemical states of surface components of the synthesized material. XPS analysis of B, C, N 1s core-levels is shown in
+Fig. 1
+. XPS survey scan spectrum (
+Fig. 1
+(a)) reveals the presence of B, C, and N elements with atomic percentage (At.%) recorded as 41.67%, 44.34%, and 13.99%, respectively. B1s spectra possess binding energy (B.E.) centered at 192.09 eV. The full width at half maximum (FWHM) value of B1s is ~2.3 eV, which is broader than FWHM of h-BN (0.92 eV), suggesting that B atoms exist in different valence states
+[21]
+. The deconvolution of B1s signal shows three peaks. The peak at ~194.34 eV corresponds to BCO2
+[22]
+. The peaks centered at ~193.69 and 195.12 eV corresponding to BN and BO bonds, respectively. The B.E is also higher than reported that of BN bonds in h-BN
+[23]
+. This peak can be interpreted as B atoms are mainly bonded to N atoms (sp2 BN bonds). The chemical shift can be ascribed to the change in the chemical bonding environment of B and N due to the incorporation of carbon.
+
+Download: Download high-res image (562KB)
+Download: Download full-size image
+
+Fig. 1. (a) XPS survey scan spectra; (b–d) XPS peaks corresponding to B 1s, C 1s, and N 1s core-levels of BCN.
+
+C1s spectrum have peak centred at 283.91 eV with FWHM ~3.95 eV while graphite has much narrower FWHM (0.35 eV)
+[24]
+. C1s spectrum profile is asymmetrical, which indicates that C atoms are present in more than one chemical environment. The deconvolution of the C1 s spectrum is shown in
+Fig. 1
+(c) results in four peaks centered at 284.5, 285.9, 287.9, and 289.7 eV. The peak at 284.5 can be assigned to planar sp2 bonding configuration, in agreement with earlier observations on sp2 bonded carbon like planar BCN compounds
+[25]
+,
+[26]
+. This peak can be related to BC bonds or CC bonds, as reported in the literature
+[19]
+,
+[27]
+. The linkage of carbon with more electronegative nitrogen can be seen at energy values of 285.9 eV (sp2 CN) and 287.9 eV (sp3 CN). These peaks show that there is a significant amount of C atoms bonded to N atoms in BCN superlattice. Also, a less intense and broader peak at 289.7 eV is observed, which can be ascribed to the presence of defects and residual oxygen. It shows the characteristic impurity broad multicomponent band present in carbon-based systems
+[28]
+,
+[29]
+,
+[30]
+.
+
+N1s spectrum has a peak centered at 401.02 eV with FWHM ~4.53 eV, which is broader than of h-BN (0.88 eV)
+[31]
+. The deconvolution of the N 1s spectrum in
+Fig. 1
+(d) gives three peaks centered at 400.8, 402.8, and 405.1 eV, which are assigned to the CNB, sp2 CN, πP plasmon loss peak. The peak at 405.1 eV can originate from the positive surface charge or π electrons delocalization in the heterocycle of CN
+[32]
+,
+[33]
+. XPS results suggest that B, C, and N atoms are atomically intermixed with the dominance of graphite and BN domains. Also, there is a significant presence of C interacting at the B-N edges and B, N interactions with C atoms due to the existence of B and N at the graphene borders. XPS analyses validate the formation of a ternary BCN compound in the synthesized sample.
+
+FTIR spectrum was measured to further analyze the nature of chemical bonds in the synthesized sample.
+Fig. 2
+ shows the FTIR spectra of nanostructured BCN. FTIR spectra shows absorption bands at 807, 1027, 1102, 1269, 1407, 1521, 1696, and 2318 cm−1. According to literature, CN bonds are reported in the range of 1020–1220 cm−1, BC bond can be expected approximately at 1100 cm−1, CN bonds are expected near 1600 cm−1
+[34]
+,
+[35]
+,
+[36]
+. As shown in
+Fig. 2
+, the absorption band at 807 cm−1 can be assigned to h- B-N-C circular out of plane bending vibration
+[37]
+. The absorption bands at 1027, 1269, 1521, 2318 cm−1 correspond to CN, (sp3) CN, (sp2) CN, and (sp) CN, respectively
+[38]
+. The broadness of band at 1521 cm−1 can be attributed to the presence of defect states. The peak at 1102 and 1407 cm−1 belongs to carbon-rich B-C bond and h-BN, respectively
+[38]
+,
+[39]
+. It has been found from the FTIR spectrum that BN, BC, CN, BNC bonds are present in the sample, which is in accordance with XPS results.
+
+Download: Download high-res image (176KB)
+Download: Download full-size image
+
+Fig. 2. FTIR spectra of BCN nanosheets.
+
+Raman spectrum of BCN has been shown in
+Fig. 3
+. It has been reported that BN shows a single Raman peak, depending on its structure and shape
+[40]
+,
+[41]
+,
+[42]
+. BCN materials show separate D and G bands
+[43]
+,
+[44]
+. Raman spectra of BCN show two different bands at 1343 and 1605 cm−1. The presence of disordered (D) and graphitic (G) bands signify the graphitic nature of synthesized material
+[21]
+. Bond stretching of sp2-hybridized pairs in both rings and chains (such as CC, CN, BC, and BN bonds), as well as first-order scattering from doubly degenerate E2g phonon mode, result in G peak formation.
+
+Download: Download high-res image (181KB)
+Download: Download full-size image
+
+Fig. 3. Raman spectra of BCN nanosheets.
+
+Additionally, the D peak originates due to the breathing mode of A1g symmetry in aromatic rings
+[21]
+,
+[45]
+. The intensity ratio of the D and G bands (ID/IG) is calculated to be ~0.91. Higher intensity of G band can be ascribed to the BCN with ordered graphitic nature. For D and G peaks, FWHMs are ~117 and ~57 cm−1, respectively. The FWHM show peaks are broad enough, and this broadening may be attributed to the substitution of boron and nitrogen atoms with carbon into BCN
+[27]
+,
+[46]
+. It results in distortion in the graphitic layers due to the formation of different bonds (such as BC, BN and CN) with different bond lengths. This broadness can also be interpreted as the presence of defect states in the synthesized material. Raman analysis confirms the presence of layered graphite-like BCN compound in the synthesized sample.
+
+FESEM images of synthesized BCN are shown in
+Fig. 4
+. It is clear from the FESEM image (
+Fig. 4
+(a)) that synthesized material is an assembly built of multilayer nanosheets. These thin nanosheets form a porous flower-like honeycomb structure (
+Fig. 4
+(b)). It looks like crosslinked nanofibers with numerous pores. Due to the ultra-thin size, BCN nanosheets show irregular shapes. This layered structure of BCN is quite similar to the structure of exfoliated graphitic CN nanosheets
+[47]
+.
+
+Download: Download high-res image (485KB)
+Download: Download full-size image
+
+Fig. 4. FESEM images of BCN nanosheets.
+
+In the zeta potential analysis, BCN nanosheets exhibit a negative surface charge, i.e., −18.4 mV (
+Figure S3
+). This negative charge can be attributed to the presence of a boron-containing and nitrogen related group on the surface of nanosheets. The synthesized sample is highly water-soluble. This negative zeta potential can be the reason for improved hydrophilicity of h-BCN nanosheets.
+
+The absorbance spectra of the material were recorded as-synthesized product after washing, after 1 day and after 30 days to check the stability of the compound.
+Fig. 5
+ shows the optical absorbance spectra of as-synthesized and after 30 days BCN. There are three absorption bands observed in the as-synthesized sample – near 200 nm, 263 nm, and 318 nm. The absorption band at 200 nm corresponds to the sigma electron excitation of h-BN, While 263 nm and 318 nm belong to the n-electron and π electron excitation of h-BN, respectively
+[48]
+,
+[49]
+,
+[50]
+. The peak at 263 nm can be ascribed to the presence of C within the h-BN structure. The broadening of the peak may be due to the inhomogeneity caused by the presence of graphitic C
+[51]
+. The appearance of a peak at 318 nm can correspond to the stacking of graphitic C and h-BN layers
+[16]
+. It may originate due to the formation of delocalized π bonds between extra C and N atoms. It may also be ascribed to the weak π bonds in sp2 CC. After 1-day, the UV spectrum shows the disappearance of the absorption band at 318 nm (
+Fig. 5
+). Only bonds due to n-electron and σ electron exists. The disappearance off the band at 318 nm attributes to the presence h-BN domains which destroy the π orbital network of carbon. Moreover, the presence of certain isolated B scatterers results in the increment of electronic band gap by breaking/destroying the π orbital network, which has been observed in the present case also. After 30 days, the UV absorption results remain consistent with results after 1-day. It indicates the stability of BCN nanosheets.
+
+Download: Download high-res image (229KB)
+Download: Download full-size image
+
+Fig. 5. UV–visible spectrum of BCN nanosheets and inset shows the calculated bandgap using Tauc’s plot.
+
+The bandgap of synthesized BCN has been calculated using Tauc’s equation as follows:
+(3)
+αhν=Ahν-Egn
+where A is constant, and
+hν
+ is photon energy. The x-axis intersection of extrapolating of (αhυ)2 vs.
+hν
+ yields the optical bandgap energy. The typical bandgap of boron nitride is 6.08 eV
+[52]
+. The bandgap of BCN can be obtained between graphitic carbon and boron nitride, depending on carbon concentration. For as-synthesized h-BCN, the calculated band gap is found to be ~3.48 eV as shown in
+Fig. 5
+ (inset). The bandgap of h-BCN after 1 day and 30 days was calculated as 3.94 eV (
+Figs. 5
+ and S4). Due to weak bonds, π states of sp2 carbon lie closer to the Fermi level. The increase in the optical bandgap from 3.48 to 3.94 eV can be due to the reduction in weak π state of sp2 CC. The increased band gap is not the real band gap but mainly corresponds to precisely opening of the band structure due to disorder in the material and due to the nonuniform spatial distribution of the components. The high B and N concentration in the synthesized BCN structure results in inhomogeneous lattice and gets stable after certain time and remains stable for longer durations. Same results have been observed in the present study with a different UV spectrum for as synthesized BCN, as that of 1 day and 30 days (as shown in
+Fig. 5
+). This is due to the reason of thermodynamically immiscible characteristics of BN and C and also due to asymmetric presence of isolated B domains
+[53]
+. In the present case, the material is stable after one day and remains same thereafter and hence prominent for electrochemical stability. Also, the lower range of the BCN optical band gap in comparison to BN suggests the more graphitic nature of the material, which is in agreement with Raman and XPS analysis.
+
+Further, the optical studies and influence of defect states on emission have been analyzed by PL spectroscopy.
+Fig. 6
+(a–b) shows the photoluminescence spectra of as-synthesized and after 30 days BCN sample. The emission spectra were observed for the excitation wavelength of 275 nm, 290 nm, and 305 nm. As shown in
+Fig. 6
+(a–b), maximum emission intensity has been observed at 305 nm excitation.
+Fig. 6
+(a) shows an increase in intensity with peak shift (436 to 422 nm) observed with an increase in excitation wavelength. The emission band is observed at 2.9 eV (λexc = 305 nm) with a FWHM of 0.72 eV. There is a wide emission peak with growing intensity at higher band energy and tailing off toward low energy. These characteristics specify the role of multiple channels for the spectral feature of BCN. The presence of defect states influences the broadness of the emission band. Broad emission band between 2 and 2.9 eV corresponds to the defect states induced emission
+[54]
+. Defect states from the sp2 domain play an important role in the broad blue emission. From the NRF plot, XPS, FTIR, and Raman analysis, the existence of defects or stacking faults have been examined in the synthesized BCN.
+
+Download: Download high-res image (305KB)
+Download: Download full-size image
+
+Fig. 6. (a) PL emission spectra of as-synthesized BCN nanosheets; (b)) PL emission spectra of BCN nanosheets after 30 days at the different excitation wavelength.
+
+To check the stability, PL emission spectra have been analyzed after 1 day (
+Figure S5
+) and 30 days (
+Fig. 6
+(b)). Both the spectra show similar emission spectra. As shown in
+Fig. 6
+(b), the sample shows one sharp emission peak in the ultraviolet region and one broad emission band in the visible range. With an increase in excitation wavelength, the sharp emission band shifted toward a lower energy band (4.08 to 3.64 eV). This emission band belongs to the band to band transition across the direct bandgap of BCN
+[54]
+. In as-synthesized BCN, this peak was present with very little intensity due to more influence of weak π bonds sp2 in broad violet-blue emission. These π bonds lie closer to the Fermi level than σ bonds
+[55]
+. Hence, it resulted in more violet-blue emission due to n to π* transition in the as-synthesized sample. Also, Further, a broad emission band shows slight shifts toward lower wavelengths with an increase in excitation energy (
+Fig. 6
+(b)). It shows blue emission extending up to longer wavelengths. The presence of defect states may be the reason for broad emission in the visible range.
+
+The mechanism of emission in synthesized BCN is depicted in
+Fig. 7
+. The difference in emission spectra of present work than reported works is due to the presence of shallow and deep level defects states. B and N vacancies may not be responsible for deep-level emissions because it can only form shallow levels. Carbon can act as an n-type dopant in BN to fill out the vacancy of either nitrogen or boron. The shallow acceptor levels possibly will be owing to the pure vacancy or other impurities. The nitrogen and boron vacancies responsible for the shallow acceptor and shallow donor defects, respectively. The nature of sp2 domains of carbon and other carbon-related states in the system is complex, which is not well explained at present. However, the PL studies show that C plays a significant part in the formation of deep levels, which can be responsible for the carrier trapping and recombination process. It has been found that BCN nanosheets provided both ultraviolet and visible emission, which can be a desirable property for optoelectronic, nanoelectronics, catalytic applications, etc.
+
+Download: Download high-res image (153KB)
+Download: Download full-size image
+
+Fig. 7. Schematic band model diagram for the proposed emission process of BCN.
+
+Fig. 8
+ shows the polarization curve of the as-synthesized sample performed via linear sweep voltammetry (LSV) at a scan rate of 3 m Vs−1. LSV plot initially exhibits the maximum current density of −25.3 mAcm−2 in the potential window of 0 to −1 V. The higher current density obtained in the synthesized sample correspond to the presence of nitrogen in the conductive carbon matrix, which provides the active sites for electrochemical performance. Moreover, the 2D features of BCN resembling that of graphene as confirmed by FESEM analysis, exhibits higher conductivity and porous surface feature enhances the charge transfer rate. The lone-pair of electrons of N in the carbon matrix activates the π-electrons of carbon and enhance the current density in the reduction potential region
+[56]
+,
+[57]
+. The HER performance exhibited by the synthesized sample in the low voltage range is higher than the reported literature
+[56]
+,
+[58]
+. The dominance of graphite and BN domains in the atomically intermixed B, C, and N provide more actives sites for electron transfer and improves the current density in the low voltage range
+[59]
+. Both the nucleophile and electrophile sites of BCN through the N and B incorporation enhances the H+ adsorption rate and improves the HER activity
+[60]
+. The defect sites (Stone-Wales defect) present with the modified carbon network of BCN acts as reactive sites and enhance the charge transfer rate
+[61]
+.
+
+Download: Download high-res image (146KB)
+Download: Download full-size image
+
+Fig. 8. LSV plot for BCN nanosheets, Tafel plot (inset
+Fig. 8
+).
+
+The stability is an important parameter for practical application of the synthesized electrocatalyst. The stability test performed for BCN by LSV after 1000 CV is shown in
+Fig. 8
+. The plot polarization curve shows very low decrement in current density after 1000 CV cycles. The CV cycles were performed in the voltage window of −0.5 to 0.3 at a scan rate of 100 mV s−1. Moreover, it shows (
+Fig. 8
+) the same pattern as that of the initial plot and similar characteristics after 1000 CV cycles and reveals the property of BCN as electrocatalyst for water splitting. The stability tests were also performed for 1500 and 3000 CV cycles in the same voltage window, but the current–voltage trend shows a different pattern as shown in
+Figure S7
+. The polarization curve after 1500 and 3000 CV cycles shows higher current density, which rarely happens in case of the electrocatalyst. This could be due to some Faradic reactions occurring between the electrolyte and electrocatalyst surface after a certain time/CV cycles. However, no such peak has been observed in the CV pattern (
+Figure S8
+). The water-loving (electrophile) ability of B within BCN might have coordinated with the lone pair electrons of the oxygen atom of water to increase its wetting properties for enhancing the current density after certain durations
+[61]
+.
+
+To predict the reaction mechanism favourable for HER and to study the reaction kinetics, Tafel analysis was done and the corresponding Tafel plot is shown in the inset of
+Fig. 8
+. The value of Tafel slope (b) determines the mechanism responsible for electrochemical water splitting through HER
+[62]
+. The results (inset of
+Fig. 8
+) predict that the Volmer reaction is the rate-determining step for BCN. The value of ‘b’ up to 120 mV dec−1 attributes to Volmer reaction (Eq.
+(4)
+). However, the value of ‘b’ up to 40 and 30 mV dec−1 correspond to Heyrovsky and Tafel reactions, respectively as the rate-determining steps. The comparison of HER performance data of BCN with the reported results has been made on the basis of Tafel slope and overpotential values. This work shows enhanced HER results of BCN as compared to previously reported works (Table S3). The HER has been considered to three elementary reactions as follows
+[63]
+,
+[64]
+:
+(4)
+BCN+(H+)H2O+e-→BCNHads+H2O
+(5)
+BCNHads+(H+)H2O+e-→H2+BCN+H2O
+(6)
+BCNHads+BCNHads→H2+2BCN
+where ‘BCN’ is an active site of the electrocatalyst and ‘BCNHads’ is hydrogen absorbed at that active site. In Volmer reaction, a hydrated proton attaches on the surface of the catalyst and produced H2 leaves the active surface via Eqs.
+(5)
+,
+(6)
+ as Heyrovsky and Tafel reactions, respectively. The result attribute to fact that the nitrogen incorporation within the carbon matrix enhances the charge transfer rate and provides more active sites for the HER
+[56]
+,
+[62]
+,
+[65]
+. The different bonding states of N with C pyridinic-N and graphitic-N behave like p-doped semiconductor and electron donor, respectively. This regulates the electronic structure near the Fermi level of C skeleton to distribute their electronic sites in the desired way to enhance HER reaction kinetics. Moreover, the defect states attributed to B bonding to C by synergistic coupling between heteroatoms improves the proton adsorption at the catalyst surface and validates the Volmer reaction as a rate-determining step for HER.
+
+The electrochemical surface area (ECSA) of the as-synthesized sample has been calculated by determining the electrochemical double-layer capacitance (EDLC, Cdl) from the CV plots performed at various scan rates as shown in
+Fig. 9
+(a). The CV was performed at scan rates of 5, 10, 40, 70, 100, 130, 160, 190, 210 mV s−1 in the voltage window of 0.2 to 1.0 V. The CV plot in the given voltage range resembling near rectangular shape exhibit double-layer capacitance characteristics having non-Faradic reaction between the electrode surface and electrolyte
+[66]
+. However, changing the voltage on both sides changes the shape of the CV curve as shown in
+Figure S9
+, and reveals that pseudo-capacitance behaviour after a certain voltage range in the synthesized sample. The EDLC (ECSA) surface area calculated from the plot (
+Fig. 9
+(b)) of the difference of anodic and cathodic current versus scan rates is 0.74 mFcm−2. The results obtained are higher than the reported results
+[61]
+. The results reveal the potential application of the synthesized sample for electrochemical double-layer capacitors. The higher wettability due to B incorporation in C improves the electrochemical charge storage performance. To confirm the charge storage characteristics for supercapacitor applications, galvanic-charge discharge (GCD) curves were performed in voltage window 0 to 1 V as shown in
+Fig. 9
+(c). The deviation from the triangular curve at lower applied currents depicts some pseudo capacitor like behaviour. However, at higher current values both the charging and discharging times are small and the triangular shape of the curve shows the double layer capacitor behaviour for charge storage. The specific capacitance obtained for the applied current of 1 mA is 0.04 Fg−1 as per the criteria reported in the literature
+[67]
+.
+
+Download: Download high-res image (366KB)
+Download: Download full-size image
+
+Fig. 9. (a) CV versus scan rate of BCN nanosheets; (b) EDLC plot for BCN nanosheets; (c) GCD curves for BCN nanosheets; (d) Efficiency after 5000 cycles for BCN nanosheets.
+
+The charge storage capability of the BCN may be attributed to the higher wettability of the surface due to B incorporation in N doped C matrix. This is an essential criterion for electrochemical capacitors materials
+[68]
+. The graphene-like behaviour provides a more active site available for electron transfer and enhances the charge storage rate. Moreover, the synergetic effects of N incorporation in carbon improve the active sites and lower the electron path to enhance the charge storage capacity
+[69]
+. To check the capacitance retention rate, GCD was performed for 5000 cycles and the synthesized samples show higher efficiency >90% as shown in
+Fig. 9
+(d). The higher stability and retention might be attributed to the carbon matrix which not only provides the conductive surface but also contributes to the stability by inhibiting the surface corrosion in acidic medium. The corresponding voltage–time plot is shown in
+Figure S10
+ and the magnified image of the same is shown in
+Figure S11
+. The results reveal no change in voltage peak with time during continuous cycling. This improved stability makes the synthesized material vital to be explored as electrode material in batteries and supercapacitor to work for longer durations without deterioration. The higher stability and fast charging rate are the important criteria for the use of these materials in practical applications like electric vehicles and other electronic gadgets.
+
+4. Conclusion
+
+Nanostructured BCN has been synthesized by facile thermo-chemical method at 700 °C. Unlike previously reported methods, this is one step synthesis route without additional requirements. XRD analysis confirms the hexagonal phase of BCN along with structural defects. XPS and FTIR analysis indicate the presence of BN, BC, CN, BNC bonds in the synthesized sample. FESEM images show the BCN nanosheets with porous flower-like honeycomb structures. Raman spectra show D and G bands with broadness in FWHM, which can be ascribed to the presence of structural defects. The synthesized h-BCN shows sharp emission band (3.64 eV) in ultraviolet region due to band to band transition across the direct bandgap of BCN, and defect induced broad emission (2–2.9 eV) in the violet-blue region with optical stability, which makes this material suitable for optoelectronic applications. Further this material have been explored for HER performance. The CV and EDLC results show electrochemical charge storage performance may be attributed to the higher wettability due to B incorporation in C. The graphene-like behavior provides a more active site available for electron transfer and enhances the charge storage rate. Moreover, the synergetic effects of N incorporation in carbon improve the active sites and lower the electron path to enhance the charge storage capacity. So, the improved stability makes the synthesized material a potential candidate to be explored as electrode material in batteries and supercapacitors. The defects incorporated in the synthesized BCN enhances its properties to make it usable in high end opto-electronic and supercapacitor/HER applications.
+
+CRediT authorship contribution statement
+
+Manjot Kaur: Conceptualization, Methodology, Funding acquisition, Investigation, Resources, Formal analysis, Writing - original draft, Writing - review & editing. Rameez Ahmad Mir: Investigation, Formal analysis, Validation, Writing - review & editing. Ishant Chauhan: Formal analysis. Kulwinder Singh: Formal analysis, Writing - review & editing. Unni Krishnan: Formal analysis. Manish Kumar: Formal analysis. Pooja Devi: Formal analysis, Investigation. O.P. Pandey: Formal analysis, Writing - review & editing. Akshay Kumar: Conceptualization, Formal analysis, Resources, Project administration, Funding acquisition, Writing - review & editing, Supervision.
+
+Declaration of Competing Interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Acknowledgments
+
+MK is grateful to Council of Scientific and Industrial Research, India for providing financial support as SRF (File no.
+09/1198(0004)/2020-EMR-I
+). This work was also supported by Science and Engineering Research Board, Department of Science and Technology India, Project No.
+EMR/2016/002815
+. The authors are thankful to Dr. Ram K Sharma, University of Petroleum and Energy Studies (UPES), Dehradun- 248007, Uttarakhand, India for his valuable suggestions.
+
+Appendix A. Supplementary material
+
+The following are the Supplementary data to this article:
+
+Download: Download Word document (2MB)
+
+Supplementary data 1.
+
+References
+[1]
+A. Nag, K. Raidongia, K.P.S. Hembram, et al.
+Graphene analogues of BN: novel synthesis and properties
+ACS Nano, 4 (2010), pp. 1539-1544
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[2]
+M. Chhowalla, H.S. Shin, G. Eda, et al.
+The chemistry of two-dimensional layered transition metal dichalcogenide nanosheets
+Nat. Chem., 5 (2013), pp. 263-275
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[3]
+C.N.R. Rao, K. Gopalakrishnan, U. Maitra
+Comparative study of potential applications of graphene, MoS2, and other two-dimensional materials in energy devices, sensors, and related areas
+ACS Appl. Mater. Interfaces, 7 (2015), pp. 7809-7832
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[4]
+S. Angizi, M.A. Akbar, M. Darestani-Farahani, P. Kruse
+Two-Dimensional Boron Carbon Nitride: A Comprehensive Review
+ECS J. Solid State Sci. Technol., 9 (2020), Article 083004
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[5]
+A. Prakash, V. Todi, K.B. Sundaram, et al.
+Investigation of the Dielectric and Mechanical Properties for Magnetron Sputtered BCN Thin Films
+ECS J. Solid State Sci. Technol., 4 (2015), pp. N3122-N3126
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[6]
+W. Chen, L. Xu, Y. Tian, et al.
+Boron and nitrogen co-doped graphene aerogels: facile preparation, tunable doping contents and bifunctional oxygen electrocatalysis
+Carbon, 137 (2018)
+458e466
+Google Scholar
+[7]
+K. Raidongia, D. Jagadeesan, M. Upadhyay-Kahaly, et al.
+Synthesis, structure and properties of homogeneous BC4N nanotubes
+J. Mater. Chem., 18 (2008), pp. 83-90
+View in Scopus
+Google Scholar
+[8]
+I. Karbhal, R.R. Devarapalli, J. Debgupta, et al.
+Facile Green Synthesis of BCN Nanosheets as High-Performance Electrode Material for Electrochemical Energy Storage
+Chem. Eur. J., 22 (2016), pp. 7134-7140
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[9]
+Y. Liu, X. Li, Q. Zhang, et al.
+A General Route to Fabricate Low-ruthenium-based Bimetals Electrocatalysts for pH-universal Hydrogen Evolution Reaction via Carbon Quantum Dots
+Angew. Chem. Int. Ed., 54 (2015), pp. 2131-2136
+View in Scopus
+Google Scholar
+[10]
+W. Li, Y. Zhao, Y. Liu, et al.
+Exploiting Ru-induced Lattice Strain in CoRu Nanoalloys for Robust Bifunctional Hydrogen Production
+Angew. Chem. Int. Ed., 60 (2021), pp. 3290-3298
+Google Scholar
+[11]
+S. Angizi, M. Khalaj, S.A.A. Alem, et al.
+Review—Towards the Two-Dimensional Hexagonal Boron Nitride (2D h-BN) Electrochemical Sensing Platforms
+J. Electrochem. Soc., 167 (2020), Article 126513
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[12]
+H. Song, Y. Li, L. Shang, et al.
+Designed controllable nitrogen-doped carbon-dots-loaded MoP nanoparticles for boosting hydrogen evolution reaction in alkaline medium
+Nano Energy, 72 (2020), Article 104730
+View PDF
+View article
+View in Scopus
+Google Scholar
+[13]
+H. Song, Y. Cheng, B. Li, et al.
+Carbon Dots and RuP2 Nanohybrid as an Efficient Bifunctional Catalyst for Electrochemical Hydrogen Evolution Reaction and Hydrolysis of Ammonia Borane
+ACS Sustainable Chem. Eng., 8 (2020), pp. 3995-4002
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[14]
+S. Liu, J. Tian, L. Wang, et al.
+Hydrothermal Treatment of Grass: A Low-Cost, Green Route to Nitrogen-Doped, Carbon-Rich, Photoluminescent Polymer Nanodots as an Effective Fluorescent Sensing Platform for Label-Free Detection of Cu(II) Ions
+Adv. Mater., 24 (2012), pp. 2037-2041
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[15]
+N. Kumar, K. Moses, K. Pramoda, et al.
+Borocarbonitrides, BxCyNz
+J. Mater. Chem. A, 1 (2013), pp. 5806-5821
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[16]
+L. Ci, L. Song, C. Jin, et al.
+Atomic layers of hybridized boron nitride and graphene domains
+Nat. Matter., 9 (2010), pp. 430-435
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[17]
+Y.S. Bi, B. Liu, X.Y. Liu, et al.
+A h-BCN for Electrochemical Sensor of Dopamine and Uric Acid
+J. Nanomater., 4604820 (2020), p. 9
+Google Scholar
+[18]
+J. Wang, X. Mu, X. Wang, et al.
+The thermal and thermoelectric properties of in-plane C-BN hybrid structures and graphene/h-BN van der Waals heterostructures
+Mater. Today Phys., 5 (2018), pp. 29-57
+View PDF
+View article
+Crossref
+Google Scholar
+[19]
+M. Jalaly, F.J. Gotor, M. Semnan, et al.
+A novel, simple and rapid route to the synthesis of boron cabonitride nanosheets: combustive gaseous Unfolding
+Sci. Rep., 7 (2017), p. 3453
+View in Scopus
+Google Scholar
+[20]
+J.K. Jeon, Y. Uchimaru, D.P. Kim
+Synthesis of Novel Amorphous Boron Carbonitride Ceramics from the Borazine Derivative Copolymer via Hydroboration
+Inorg. Chem., 43 (2004), pp. 4796-4798
+View in Scopus
+Google Scholar
+[21]
+F. Tuinstra, J.L. Koenig
+Raman Spectrum of Graphite
+J. Chem. Phys., 53 (1970), pp. 1126-1130
+Google Scholar
+[22]
+M. Junaid, M.H. Md Khir, G. Witjaksono, et al.
+Boron-Doped Reduced Graphene Oxide with Tunable Bandgap and Enhanced Surface Plasmon Resonance
+Molecules, 25 (2020), p. 3646
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[23]
+H. Ling, J.D. Wu, J. Sun, et al.
+Electron cyclotron resonance plasma-assisted pulsed laser deposition of boron carbon nitride films
+Diam. Relat. Mater., 11 (2002), pp. 1623-1628
+View PDF
+View article
+View in Scopus
+Google Scholar
+[24]
+M.O. Watanabe, S. Itoh, K. Mizushima, et al.
+Bonding characterization of BC2N thin films
+Appl. Phys. Lett., 68 (1996), pp. 2962-2964
+View in Scopus
+Google Scholar
+[25]
+L. Massimi, M.G. Betti, S. Caramazza, et al.
+In-vacuum thermolysis of ethane 1,2-diamineborane for the synthesis of ternary borocarbonitrides
+Nanotechnology, 27 (2016), Article 435601
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[26]
+H. Wang, C. Zhao, L. Liu, et al.
+Towards the controlled CVD growth of graphitic B-C–N atomic layer films: the key role of B–C delivery molecular precursor
+Nano Res., 9 (2016), pp. 1221-1235
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[27]
+T.W. Lin, C.Y. Su, X.Q. Zhang, et al.
+Converting Graphene Oxide Monolayers into Boron Carbonitride Nanosheets by Substitutional Doping
+Small, 8 (2012), pp. 1384-1391
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[28]
+V. Dose, G. Reusing, H. Scheidt
+Unoccupied electronic states in graphite
+Phys. Rev. B, 26 (1982), p. 984
+View in Scopus
+Google Scholar
+[29]
+Z. Yue, W. Jiang, L. Wang, et al.
+Surface characterization of electrochemically oxidized carbon fibers
+Carbon, 37 (1999), pp. 1785-1796
+View PDF
+View article
+View in Scopus
+Google Scholar
+[30]
+H.E. Szwarckopf
+XPS photoemission in carbonaceous materials: a ‘defect’ peak beside the graphitic asymmetric peak
+Carbon, 42 (2004), pp. 1713-1721
+Google Scholar
+[31]
+J. Yu, E.G. Wang, G. Xu
+Observations of micrometer BCN rods by bias-assisted hot-filament chemical vapor deposition
+Chem. Phys. Lett., 292 (1998), pp. 531-534
+View PDF
+View article
+View in Scopus
+Google Scholar
+[32]
+R. Trehan, Y. Lifshitz, J.W. Rabalais
+Auger and xray electron spectroscopy studies of hBN, cBN, and N+ 2 ion irradiation of boron and boron nitride
+J. Vac. Sci. Technol. A, 8 (1990), p. 4026
+View in Scopus
+Google Scholar
+[33]
+D. Foy, G. Demazeau, P. Florian, et al.
+Modulation of the crystallinity of hydrogenated nitrogen-rich graphitic carbon nitrides
+J. Solid State Chem., 182 (2009), pp. 165-171
+View PDF
+View article
+View in Scopus
+Google Scholar
+[34]
+H.I. Linss, N. Schwarzer, et al.
+Mechanical properties of thin films in the ternary triangle B-C–N
+Surf. Coat. Technol., 163–164 (2003), pp. 220-226
+View in Scopus
+Google Scholar
+[35]
+D.H. Kim, E. Byon, S. Lee, et al.
+Characterization of ternary boron carbon nitride films synthesized by RF magnetron sputtering
+Thin Solid Films, 447–448 (2004), pp. 192-196
+View PDF
+View article
+View in Scopus
+Google Scholar
+[36]
+B. Yao, W.J. Chen, L. Liu, et al.
+Amorphous B-C–N semiconductor
+J. Appl. Phys., 84 (1998), p. 1412
+View in Scopus
+Google Scholar
+[37]
+B. Yao, L. Liu, W.H. Su
+Formation, characterization, and properties of a new boron-carbon-nitrogen crystal
+J. Appl. Phys., 86 (1999), p. 2464
+View in Scopus
+Google Scholar
+[38]
+A. Prakash, S.D. Nehate, K.B. Sundaram
+Boron carbon nitride based metal-insulator-metal UV detectors for harsh environment applications
+Opt. Lett., 41 (2016), p. 18
+Google Scholar
+[39]
+S. Chien, S. Chattopadhyay, L. Chen, et al.
+Mechanical properties of amorphous boron carbon nitride films produced by dual gun sputtering
+Diamond Relat. Mater., 12 (2003), p. 1463
+View PDF
+View article
+View in Scopus
+Google Scholar
+[40]
+M. Maleki, A. Beitollahi, J. Javadpour, et al.
+Dual template route for the synthesis of hierarchical porous boron nitride
+Ceram. Int., 41 (2015), pp. 3806-3813
+View PDF
+View article
+View in Scopus
+Google Scholar
+[41]
+R.V. Gorbachev, I. Riaz, R.R. Nair, et al.
+Hunting for Monolayer Boron Nitride: Optical and Raman Signatures
+Small, 7 (2011), pp. 465-468
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[42]
+L.H. Li, J. Cervenka, K. Watanabe, et al.
+Strong Oxidation Resistance of Atomically Thin Boron Nitride Nanosheets
+ACS Nano, 8 (2014), pp. 1457-1462
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[43]
+R. Paul, A.A. Voevodin, D. Zemlyanov, et al.
+Microwave-Assisted Surface Synthesis of a Boron–Carbon–Nitrogen Foam and its Desorption Enthalpy
+Adv. Funct. Mater., 22 (2012), pp. 3682-3690
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[44]
+Z.H. Sheng, L. Shao, J.J. Chen, et al.
+Catalyst-Free Synthesis of Nitrogen Doped Graphene via Thermal Annealing Graphite Oxide with Melamine and Its Excellent Electrocatalysis
+ACS Nano, 5 (2011), pp. 4350-4358
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[45]
+A.C. Ferrari, J. Robertson
+Interpretation of Raman spectra of disordered and amorphous carbon
+Phys. Rev. B, 61 (2001), pp. 14095-14107
+Google Scholar
+[46]
+C.Y. Zhi, X.D. Bai, E.G. Wang
+Raman characterization of boron carbonitride nanotubes
+Appl. Phys. Lett., 80 (2002), pp. 3590-3592
+View in Scopus
+Google Scholar
+[47]
+Q. Han, B. Wang, J. Gao, et al.
+Graphitic Carbon Nitride/Nitrogen-Rich Carbon Nanofibers: Highly Efficient Photocatalytic Hydrogen Evolution without Cocatalysts
+Angew. Chem. Int. Ed., 55 (2016), pp. 1-6
+View in Scopus
+Google Scholar
+[48]
+H.P. Li, S.W. Zhu, M. Zhang, et al.
+Tuning the Chemical Hardness of Boron Nitride Nanosheets by Doping Carbon for Enhanced Adsorption Capacity
+ACS Omega, 2 (2017), pp. 5385-5394
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[49]
+C. Huang, C. Chen, M.W. Zhang, et al.
+Carbon-doped BN nanosheets for metal-free photoredox catalysis
+Nat. Commun., 6 (2015), p. 7698
+View in Scopus
+Google Scholar
+[50]
+C.L. Sun, F.K. Ma, L. Cai, et al.
+Metal-free Ternary BCN Nanosheets with Synergetic Effect of Band Gap Engineering and Magnetic Properties
+Sci Rep., 7 (2017), p. 6617
+View in Scopus
+Google Scholar
+[51]
+S. Saha, M. Jana, P. Samanta, et al.
+Investigation of band structure and electrochemical properties of h-BN/rGO composites for asymmetric supercapacitor applications
+Mater. Chem. Phys., 190 (2017), pp. 153-165
+View PDF
+View article
+View in Scopus
+Google Scholar
+[52]
+D. Wickramaratne, L. Weston, C.G. Van de Walle
+Monolayer to Bulk Properties of Hexagonal Boron Nitride
+J. Phys. Chem. C, 122 (2018), pp. 25524-25529
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[53]
+B. Muchharla, A. Pathak, Z. Liu, et al.
+Tunable Electronics in Large-Area Atomic Layers of Boron–Nitrogen–Carbon
+Nano Lett., 13 (2013), pp. 3476-3481
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[54]
+L. Qin, J. Yu, S. Kuang, et al.
+Few-atomic-layered boron carbonitride nanosheets prepared by chemical vapor deposition
+Nanoscale, 4 (2012), p. 120
+View in Scopus
+Google Scholar
+[55]
+Q. Yang, C.B. Wang, S. Zhang, et al.
+Effect of nitrogen pressure on structure and optical properties of pulsed laser deposited BCN thin films
+Surf. Coat. Technol., 204 (2010), pp. 1863-1867
+View PDF
+View article
+View in Scopus
+Google Scholar
+[56]
+S. Wang, L. Zhang, Z. Xia, et al.
+BCN graphene as efficient metal-free electrocatalyst for the oxygen reduction reaction
+Angew. Chemie – Int. Ed., 51 (2012), pp. 4209-4212
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[57]
+C.N.R. Rao, M. Chhetri
+Borocarbonitrides as Metal-Free Catalysts for the Hydrogen Evolution Reaction
+Adv. Mater., 31 (2019), p. 1803668
+View in Scopus
+Google Scholar
+[58]
+Z. Liang, J. Li, N. Lei, et al.
+Construction of Ti 3+ self-doped TiO2/BCN heterojunction with enhanced photoelectrochemical performance for water splitting
+J. Mater. Sci. Mater. Electron., 30 (2019), pp. 2006-2015
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[59]
+X. Chen, W.-J. Ong, X. Zhao, et al.
+Insights into electrochemical nitrogen reduction reaction mechanisms: Combined effect of single transition-metal and boron atom
+J. Energy Chem., 58 (2021), pp. 577-585
+View PDF
+View article
+View in Scopus
+Google Scholar
+[60]
+M. Chhetri, S. Maitra, H. Chakraborty, et al.
+Superior performance of borocarbonitrides, BxCyNz, as stable, low-cost metal-free electrocatalysts for the hydrogen evolution reaction
+Energy Environ. Sci., 9 (2016), pp. 95-101
+View in Scopus
+Google Scholar
+[61]
+M.A.R. Anjum, M.H. Lee, J.S. Lee
+BCN network-encapsulated multiple phases of molybdenum carbide for efficient hydrogen evolution reactions in acidic and alkaline media
+J. Mater. Chem. A, 5 (2017), pp. 13122-13129
+View in Scopus
+Google Scholar
+[62]
+H. Tabassum, R. Zou, A. Mahmood, et al.
+A catalyst-free synthesis of B, N co-doped graphene nanostructures with tunable dimensions as highly efficient metal free dual electrocatalysts
+J. Mater. Chem. A, 4 (2016), pp. 16469-16475
+View in Scopus
+Google Scholar
+[63]
+R.A. Mir, G. Kaur, O.P. Pandey
+Facile process to utilize carbonaceous waste as a carbon source for the synthesis of low cost electrocatalyst for hydrogen production
+Int. J. Hydrogen Energy, 45 (2020), pp. 23908-23919
+View PDF
+View article
+View in Scopus
+Google Scholar
+[64]
+R.A. Mir, S. Singla, O.P. Pandey
+Hetero carbon structures derived from waste plastics as an efficient electrocatalyst for water splitting and high-performance capacitors
+Phys. E Low-Dimensional Syst. Nanostructures., 124 (2020), Article 114284
+View PDF
+View article
+View in Scopus
+Google Scholar
+[65]
+R.A. Mir, O.P. Pandey
+An ecofriendly route to synthesize C-Mo2C and C/N-Mo2C utilizing waste polyethene for efficient hydrogen evolution reaction (HER) activity and high performance capacitors
+Sustain. Energy Fuels., 4 (2020), pp. 655-669
+View at publisher
+Crossref
+View in Scopus
+Google Scholar
+[66]
+R.A. Mir, O.P. Pandey
+Waste plastic derived carbon supported Mo2C composite catalysts for hydrogen production and energy storage applications
+J. Clean. Prod., 218 (2019), pp. 644-655
+View PDF
+View article
+View in Scopus
+Google Scholar
+[67]
+S. Upadhyay, O.P. Pandey
+One-pot synthesis of pure phase molybdenum carbide (Mo2C and MoC) nanoparticles for hydrogen evolution reaction
+Int. J. Hydrogen Energy., 45 (2020), pp. 27114-27128
+View PDF
+View article
+View in Scopus
+Google Scholar
+[68]
+T. Liu, K. Wang, Y. Chen, et al.
+Dominant role of wettability in improving the specific capacitance
+Green Energy Environ., 4 (2019), pp. 171-179
+View PDF
+View article
+View in Scopus
+Google Scholar
+[69]
+C. Zhan, Y. Zhang, P.T. Cummings, et al.
+Enhancing graphene capacitance by nitrogen: Effects of doping configuration and concentration
+Phys. Chem. Chem. Phys., 18 (2016), pp. 4668-4674
+View in Scopus
+Google Scholar
+Cited by (26)
+Advanced noble-metal/transition-metal/metal-free electrocatalysts for hydrogen evolution reaction in water-electrolysis for hydrogen production
+2024, Coordination Chemistry Reviews
+Show abstract
+Recent advancements in boron carbon nitride (BNC) nanoscale materials for efficient supercapacitor performances
+2024, Progress in Materials Science
+Show abstract
+Insights on Z-scheme interfacial charge transfer of TiO<inf>2</inf>-NRAs/BiOI-NFs/Au-NPs nanoheterostructures and unveiling enhanced photoelectrochemical performances
+2024, Arabian Journal of Chemistry
+Show abstract
+Advanced boron-doped carbon papers with excellent electrical conductivity and low graphitization temperature for PEM fuel cells
+2024, International Journal of Hydrogen Energy
+Show abstract
+Densification, microstructure, and wear properties of TiB<inf>2</inf>-TiC-GNP and TiB<inf>2</inf>-TiC-BN composites
+2024, Ceramics International
+Show abstract
+Boron neutron capture therapy anti-tumor effect of nanostructured boron carbon nitride: A new potential candidate
+2023, Inorganic Chemistry Communications
+Show abstract
+View all citing articles on Scopus
+View Abstract
+© 2021 Elsevier B.V. All rights reserved.
+About ScienceDirect
+Remote access
+Shopping cart
+Advertise
+Contact and support
+Terms and conditions
+Privacy policy
+
+Cookies are used by this site.
+Cookie Settings
+
+All content on this site: Copyright © 2024 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.
